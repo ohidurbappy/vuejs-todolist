@@ -20,5 +20,16 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Install Libraries
+
+```
+
+npm install -g axios
+```
+
+### Add vue router
+
+``` 
+
+vue add router
+```
